@@ -3,21 +3,30 @@ A simple task manager built with ember.
 
 EmberTaskMgr is a task manager built with the Ember.js framework.
 
-Prerequisites/System Requirements
+#H1 PREREQUISITES 
 
 Git
+
 Node.js (with NPM)
+
 Bower
+
 Ember CLI
+
 PhantomJS
 
 git clone <repository-url> this repository
+
 change into the new directory
+
 npm install
+
 bower install
+
 Running / Development
 
 ember server
+
 Visit your app at http://localhost:4200.
 
 Code Generators
@@ -27,19 +36,27 @@ Make use of the many generators for code, try ember help generate for help.
 Running Tests
 
 ember test
+
 ember test --server
+
 Building
 
 ember build (development)
+
 ember build --environment production (production)
+
 Deploying
 
 Resources
 
 https://git-scm.com/
+
 https://nodejs.org/en/
+
 https://bower.io/
+
 https://ember-cli.com/
+
 http://phantomjs.org/
 
 
