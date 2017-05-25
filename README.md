@@ -1,6 +1,6 @@
 # EmberTaskMgr
 
-## A simple task manager built with ember framework 
+## A simple task manager built with ember framework, inspired by ember tasks.
 
 ## Prerequisites
 
