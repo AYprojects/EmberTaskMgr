@@ -1,73 +1,53 @@
-# EmberTaskMgr
-A simple task manager built with ember.
+# Emtasks
 
-EmberTaskMgr is a task manager built with the Ember.js framework.
+EmTasks is a simple task manager built with the Ember.js framework. This app accompanies the video series 
+ [located here](https://www.youtube.com/watch?v=owDmPTSJkrg)
 
-PREREQUISITES
+## Prerequisites
 
-Git
+You will need the following things properly installed on your computer.
 
-Node.js (with NPM)
+* [Git](http://git-scm.com/)
+* [Node.js](http://nodejs.org/) (with NPM)
+* [Bower](http://bower.io/)
+* [Ember CLI](http://www.ember-cli.com/)
+* [PhantomJS](http://phantomjs.org/)
 
-Bower
+## Installation
 
-Ember CLI
+* `git clone <repository-url>` this repository
+* change into the new directory
+* `npm install`
+* `bower install`
 
-PhantomJS
+## Running / Development
 
-INSTALLATION
+* `ember server`
+* Visit your app at [http://localhost:4200](http://localhost:4200).
 
-git clone <repository-url> this repository
+### Code Generators
 
-change into the new directory
+Make use of the many generators for code, try `ember help generate` for more details
 
-npm install
+### Running Tests
 
-bower install
+* `ember test`
+* `ember test --server`
 
-Running / Development
+### Building
 
-ember server
+* `ember build` (development)
+* `ember build --environment production` (production)
 
-Visit your app at http://localhost:4200.
+### Deploying
 
-Code Generators
+Specify what it takes to deploy your app.
 
-Make use of the many generators for code, try ember help generate for help.
+## Further Reading / Useful Links
 
-Running Tests
+* [ember.js](http://emberjs.com/)
+* [ember-cli](http://www.ember-cli.com/)
+* Development Browser Extensions
+  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
+  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
-ember test
-
-ember test --server
-
-Building
-
-ember build (development)
-
-ember build --environment production (production)
-
-Deploying
-
-RESOURCES
-
-https://git-scm.com/
-
-https://nodejs.org/en/
-
-https://bower.io/
-
-https://ember-cli.com/
-
-http://phantomjs.org/
-
-
-ABOUT THE AUTHOR
-
-Hi, I am Aakanksh Yalamarthy, I am an Entrepreneur | Software Developer | Designer. I have successfully launched many start ups in varied streams of industries such as software, F&B and such, apart from having a solid entrepreneurial background, I have good coding experience. I have built and scaled multiple products, everything from the front end to the back end. My core expertise lies in product development and software development. To learn more about me, please visit www.aakanksh.com
-
-LICENSE
-
-MIT © AAKANKSH YALAMARTHY
-
-Enjoy!
