@@ -3,7 +3,7 @@ A simple task manager built with ember.
 
 EmberTaskMgr is a task manager built with the Ember.js framework.
 
-#H1 PREREQUISITES 
+#H1 PREREQUISITES #H1
 
 Git
 
