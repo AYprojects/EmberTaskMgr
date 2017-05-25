@@ -10,6 +10,8 @@
 * Ember CLI
 * PhantomJS
 
+## Installation Process
+
 git clone <repository-url> this repository
 
 change into the new directory
@@ -21,7 +23,7 @@ bower install
 Running / Development
 
 
-ember server
+## Ember server
 
 Visit your app at http://localhost:4200.
 
